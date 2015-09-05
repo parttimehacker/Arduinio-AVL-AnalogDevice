@@ -1,0 +1,28 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HelperAnalog	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+read	KEYWORD2
+calibrate	KEYWORD2
+calibrated	KEYWORD2
+counts	KEYWORD2
+millivolts	KEYWORD2
+engineeringUnits	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MQ2	LITERAL1
+MV	LITERAL1
+EU LITERAL1
+COUNTS LITERAL1
+TMP36 LITERAL1
+PHOTORESISTOR LITERAL1
